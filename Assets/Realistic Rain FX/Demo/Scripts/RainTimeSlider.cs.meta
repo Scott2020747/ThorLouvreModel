@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ba01f9bfe1ad5d54690f5d6cac9ca8cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196125
+  packageName: Realistic Rain FX
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Rain FX/Demo/Scripts/RainTimeSlider.cs
+  uploadId: 436312

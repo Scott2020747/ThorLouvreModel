@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d03508d35b55b4ab5468c3698d5a30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/Prefabs/Mesh
+    Rain, Calm Puddle, Vertical Purple Splash.prefab
+  uploadId: 744382

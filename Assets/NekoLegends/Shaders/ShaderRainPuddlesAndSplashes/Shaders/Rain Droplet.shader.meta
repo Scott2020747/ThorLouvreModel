@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8a9a15fab5d66dd4d9776876cdedbaa8
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/Shaders/Rain
+    Droplet.shader
+  uploadId: 744382

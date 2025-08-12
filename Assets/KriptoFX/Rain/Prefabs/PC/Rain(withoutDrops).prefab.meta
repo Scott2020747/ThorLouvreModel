@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d12191acd205deb4ab5e0f851235d0a1
+timeCreated: 1519862790
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35156
+  packageName: Rain
+  packageVersion: 1.1
+  assetPath: Assets/KriptoFX/Rain/Prefabs/PC/Rain(withoutDrops).prefab
+  uploadId: 232479

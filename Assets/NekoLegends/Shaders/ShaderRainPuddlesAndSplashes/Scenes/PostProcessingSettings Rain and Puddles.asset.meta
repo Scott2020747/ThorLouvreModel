@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 412303177e3237546b5eae2a8ac7dc19
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/Scenes/PostProcessingSettings
+    Rain and Puddles.asset
+  uploadId: 744382

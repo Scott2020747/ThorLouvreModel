@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5648210160c7d54ab081ded5a2cc15f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/Prefabs/Light
+    Rain, No Puddle, No Splash.prefab
+  uploadId: 744382

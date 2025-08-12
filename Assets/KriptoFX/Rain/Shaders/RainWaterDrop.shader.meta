@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4232afa428e68184aab02e21576571f8
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35156
+  packageName: Rain
+  packageVersion: 1.1
+  assetPath: Assets/KriptoFX/Rain/Shaders/RainWaterDrop.shader
+  uploadId: 232479

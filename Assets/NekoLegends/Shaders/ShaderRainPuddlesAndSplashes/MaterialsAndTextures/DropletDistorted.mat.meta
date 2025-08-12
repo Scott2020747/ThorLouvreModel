@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4536a63bc4cbf6a45af2cc66e6573ce9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/MaterialsAndTextures/DropletDistorted.mat
+  uploadId: 744382

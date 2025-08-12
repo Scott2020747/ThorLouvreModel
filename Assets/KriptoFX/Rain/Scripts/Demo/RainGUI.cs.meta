@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd673a3a08f1fe04ab437483441eb222
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35156
+  packageName: Rain
+  packageVersion: 1.1
+  assetPath: Assets/KriptoFX/Rain/Scripts/Demo/RainGUI.cs
+  uploadId: 232479

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d520450d9dd9cb84487b70d8ad1c85bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/MaterialsAndTextures/PuddleCalm.mat
+  uploadId: 744382

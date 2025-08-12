@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff70d59f7e12d67498e01eeb1664ba7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196125
+  packageName: Realistic Rain FX
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Rain FX/Materials/rain_white_drop.mat
+  uploadId: 436312

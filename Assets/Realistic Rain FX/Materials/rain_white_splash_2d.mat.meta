@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b89a01934a9372b48b1d5ce352d56666
+timeCreated: 1432658484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196125
+  packageName: Realistic Rain FX
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Rain FX/Materials/rain_white_splash_2d.mat
+  uploadId: 436312

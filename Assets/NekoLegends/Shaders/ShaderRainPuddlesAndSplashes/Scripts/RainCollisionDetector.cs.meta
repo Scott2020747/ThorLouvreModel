@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f68681402c9d2704f93feecc168311dc
+timeCreated: 1519860352
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/Scripts/RainCollisionDetector.cs
+  uploadId: 744382

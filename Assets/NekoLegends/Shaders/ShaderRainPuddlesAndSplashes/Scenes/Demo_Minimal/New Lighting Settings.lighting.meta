@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9712864953de32d48a77b6d9ad7bb5ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314363
+  packageName: Rain, Puddles, and Splashes Shader (URP)
+  packageVersion: 1.1.0
+  assetPath: Assets/NekoLegends/Shaders/ShaderRainPuddlesAndSplashes/Scenes/Demo_Minimal/New
+    Lighting Settings.lighting
+  uploadId: 744382
