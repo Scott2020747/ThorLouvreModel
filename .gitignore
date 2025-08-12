@@ -11,3 +11,5 @@
 *.sln
 *.csproj
 .utmp/
+.vsconfig
+My project_BurstDebugInformation_DoNotShip/
