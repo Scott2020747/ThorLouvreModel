@@ -4,3 +4,10 @@
 /obj/
 /Build/
 /Builds/
+/UserSettings/
+/.vs/
+/APK/
+/*.apk
+*.sln
+*.csproj
+.utmp/
